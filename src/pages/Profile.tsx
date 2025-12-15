@@ -22,7 +22,7 @@ const Profile = () => {
             <div className="flex justify-center md:justify-start">
               <div className="w-48 h-48 rounded-full overflow-hidden">
                 <img
-                  src="src/assets/Profile.png"
+                  src="/public/assets/Profile.png"
                   alt="Chriss Laurence Olanda"
                   className="w-full h-full object-cover"
                 />
