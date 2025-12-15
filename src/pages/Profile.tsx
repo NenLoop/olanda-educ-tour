@@ -1,5 +1,4 @@
 import { Github, Mail, Phone } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import Navbar from "@/components/Navbar";
 import PageHeader from "@/components/PageHeader";
@@ -58,17 +57,17 @@ const Profile = () => {
           {/* Navigation Buttons */}
           <div className="mb-12">
             <div className="flex justify-center gap-4 flex-wrap">
-              <Link to="/">
-                <Button variant="outline" size="lg">Home</Button>
+              <Link to="/" className="px-4 py-2 border border-border rounded-md hover:bg-accent transition-colors">
+                Home
               </Link>
-              <Link to="/cebu">
-                <Button variant="outline" size="lg">Cebu</Button>
+              <Link to="/cebu" className="px-4 py-2 border border-border rounded-md hover:bg-accent transition-colors">
+                Cebu
               </Link>
-              <Link to="/bohol">
-                <Button variant="outline" size="lg">Bohol</Button>
+              <Link to="/bohol" className="px-4 py-2 border border-border rounded-md hover:bg-accent transition-colors">
+                Bohol
               </Link>
-              <Link to="/journal">
-                <Button variant="outline" size="lg">Journal</Button>
+              <Link to="/journal" className="px-4 py-2 border border-border rounded-md hover:bg-accent transition-colors">
+                Journal
               </Link>
             </div>
           </div>
