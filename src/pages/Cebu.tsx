@@ -137,10 +137,10 @@ const photoDump = [
   { src: "https://travelogue-portfolio.vercel.app/assets/codechum-4-SySNqJOZ.jpg", caption: "CIT Campus" },
   { src: "https://travelogue-portfolio.vercel.app/assets/parian-2-C3b__q2Q.jpg", caption: "Heritage of Cebu Momentum" },
   { src: "https://travelogue-portfolio.vercel.app/assets/mata-2-BHDP_MFa.jpg", caption: "MATA Seminar" },
-  { src: "src/assets/Skating.png", caption: "SM Sea Side Cebu" },
-  { src: "src/assets/StoNinoHope.jpg", caption: "Sto. Nino Hope of the Pilgrim Church" },
-  { src: "src/assets/vikings2.jpg", caption: "Foods" },
-  { src: "src/assets/Ticket.jpg", caption: "Our Tickets to Cebu" },
+  { src: "../src/assets/Skating.png", caption: "SM Sea Side Cebu" },
+  { src: "/src/assets/StoNinoHope.jpg", caption: "Sto. Nino Hope of the Pilgrim Church" },
+  { src: "/src/assets/vikings2.jpg", caption: "Foods" },
+  { src: "/src/assets/Ticket.jpg", caption: "Our Tickets to Cebu" },
 ];
 
 const Cebu = () => {
