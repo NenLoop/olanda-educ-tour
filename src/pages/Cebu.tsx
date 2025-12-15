@@ -61,7 +61,7 @@ const cebuDay2 = {
     {
       time: "11:30 AM",
       title: "Buffet 101",
-      description: "After our visit to **CIT-U**, we had lunch at **Buffet 101**, where we enjoyed a wide selection of local and international dishes, making it a relaxing and satisfying way to end the day.",
+      description: "After our visit to CIT-U, we had lunch at Buffet 101, where we enjoyed a wide selection of local and international dishes, making it a relaxing and satisfying way to end the day.",
       image: "/assets/Buffet101.jpg",
     },
     {
@@ -73,7 +73,7 @@ const cebuDay2 = {
     {
       time: "5:30 PM",
       title: "Dinner at our own choice",
-      description: "After returning to the hotel, we went to **McDonald’s near Bai Hotel** to grab a quick and familiar meal, enjoying the relaxed atmosphere as we rested and recharged after a long day of activities.",
+      description: "After returning to the hotel, we went to McDonald’s near Bai Hotel to grab a quick and familiar meal, enjoying the relaxed atmosphere as we rested and recharged after a long day of activities.",
       image: "/assets/McdoCebu.jpg",
     },
   ],
@@ -104,7 +104,7 @@ const cebuDay3 = {
     {
       time: "2:00 PM",
       title: "Proceed to Pier Departure to Tagbilaran, Bohol",
-      description: "We **boarded a ferry to Bohol**, enjoying a scenic ride across the sea that lasted for about **two hours** as we traveled to our next destination.",
+      description: "We boarded a ferry to Bohol, enjoying a scenic ride across the sea that lasted for about two hours as we traveled to our next destination.",
       image: "/assets/pier.jpg",
     },
     {
