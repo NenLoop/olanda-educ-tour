@@ -10,22 +10,22 @@ const certificates = [
   {
     title: "Certificate of Participation",
     description: "Educational Tour 2025 - Cebu & Bohol",
-    image: "/public/assets/Cert.jpg",
+    image: "/assets/Cert.jpg",
   },
   {
     title: "Certificate of Completion",
     description: "Cultural Immersion Program",
-    image: "/public/assets/Codechum.png",
+    image: "/assets/Codechum.png",
   },
 ];
 
 const photoDump = [
-  { src: "/public/assets/JFront.jpg", caption: "Journal" },
-  { src: "/public/assets/Codechum1.jpg", caption: "CodeChum" },
-  { src: "/public/assets/Rivan.jpg", caption: "Rivan IT Cebu" },
-  { src: "/public/assets/MataJ.jpg", caption: "Mata Technologies, Inc." },
-  { src: "/public/assets/117.jpg", caption: "T.A.R.S.I.E.R 117" },
-  { src: "/public/assets/Impression.jpg", caption: "Impression Sheet" },
+  { src: "/assets/JFront.jpg", caption: "Journal" },
+  { src: "/assets/Codechum1.jpg", caption: "CodeChum" },
+  { src: "/assets/Rivan.jpg", caption: "Rivan IT Cebu" },
+  { src: "/assets/MataJ.jpg", caption: "Mata Technologies, Inc." },
+  { src: "/assets/117.jpg", caption: "T.A.R.S.I.E.R 117" },
+  { src: "/assets/Impression.jpg", caption: "Impression Sheet" },
 ];
 
 const Journal = () => {
