@@ -57,22 +57,22 @@ const boholDay1 = {
 
 
 const photoDump = [
-  { src: "/src/assetes/panglaoAlona", caption: "Alona Beach" },
-  { src: "/src/assets/boholBangka1", caption: "With our Proctor and friends" },
-  { src: "src/assets/tarsier", caption: "Tarsier Encounter" },
-  { src: "src/assets/boholHills3", caption: "Up the Hills with friends" },
-  { src: "src/assets/hills2", caption: "Chocolate Hills" },
-  { src: "src/assets/alona", caption: "Beach with Friends" },
-  { src: "src/assets/boholSapa", caption: "Loboc River" },
-  { src: "src/assets/birhenHills", caption: "Birhen Maria" },
-  { src: "src/assets/cruise", caption: "Cruise" },
-  { src: "src/assets/lion2", caption: "High up in Mirror of the World" },
-  { src: "src/assets/tower", caption: "Leaning tower of Pisa" },
-  { src: "src/assets/paris", caption: "Eiffel Tower" },
-  { src: "src/assets/bridge", caption: "London Bridge" },
+  { src: "/src/assets/PanglaoAlona.jpg", caption: "Alona Beach" },
+  { src: "/src/assets/boholBangka1.jpg", caption: "With our Proctor and friends" },
+  { src: "src/assets/tarsier.jpg", caption: "Tarsier Encounter" },
+  { src: "src/assets/boholHills3.jpg", caption: "Up the Hills with friends" },
+  { src: "src/assets/hills2.jpg", caption: "Chocolate Hills" },
+  { src: "src/assets/alona.jpg", caption: "Beach with Friends" },
+  { src: "src/assets/boholSapa.jpg", caption: "Loboc River" },
+  { src: "src/assets/birhenHills.jpg", caption: "Birhen Maria" },
+  { src: "src/assets/cruise.jpg", caption: "Cruise" },
+  { src: "src/assets/lion2.jpg", caption: "High up in Mirror of the World" },
+  { src: "src/assets/tower.jpg", caption: "Leaning tower of Pisa" },
+  { src: "src/assets/paris.jpg", caption: "Eiffel Tower" },
+  { src: "src/assets/bridge.jpg", caption: "London Bridge" },
   { src: "https://travelogue-portfolio.vercel.app/assets/baclayon-3-yLkMWgnJ.jpg", caption: "Baclayon Church with Friends" },
   { src: "src/assets/soloMeChurch.jpg", caption: "Solo me in Baclayon Church" },
-  { src: "src/assets/naia", caption: "NAIA with friends" },
+  { src: "src/assets/naia.jpg", caption: "NAIA with friends" },
 ];
 
 const Bohol = () => {
